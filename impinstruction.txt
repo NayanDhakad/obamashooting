@@ -1,0 +1,6 @@
+1. Install pycharm-community-2016.2.3
+2. Install pygame-1.9.2.win-amd64-py2.7
+3. Above setups are present in folder Python_Software.
+4. Then after installing the setup, just double click on ultimate.py  .
+5. The Game will start running. Play the game as much as you want.
+6. To open the source code of the game, right click on ultimate.py open with editor.
